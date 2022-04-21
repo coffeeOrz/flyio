@@ -1,6 +1,6 @@
 # V2Ray4Fly.io
 
-## 概述
+## 概述（推送代码）
 通过 GitHub Actions 自动在 [Fly.io](https://fly.io/) 上部署 [V2Ray](https://www.v2fly.org/)
 
 ## 配置部署
